@@ -323,14 +323,14 @@ int CrossPointSettings::getReaderFontId() const {
     case OPENDYSLEXIC:
       switch (fontSize) {
         case SMALL:
-          return OPENDYSLEXIC_8_FONT_ID;
+          return CAECILIA_12_FONT_ID;
         case MEDIUM:
         default:
-          return OPENDYSLEXIC_10_FONT_ID;
+          return CAECILIA_14_FONT_ID;
         case LARGE:
-          return OPENDYSLEXIC_12_FONT_ID;
+          return CAECILIA_16_FONT_ID;
         case EXTRA_LARGE:
-          return OPENDYSLEXIC_14_FONT_ID;
+          return CAECILIA_18_FONT_ID;
       }
   }
 }
