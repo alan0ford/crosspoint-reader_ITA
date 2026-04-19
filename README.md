@@ -54,5 +54,10 @@ https://www.reddit.com/r/xteinkereader/
 FAQ:
 https://www.readme.club/start
 
+**Pagina Home**
+
 ![Home](https://i.imgur.com/KrcZvd0.png)
+
+**Menu connessioni**
+
 ![menu connessioni](https://i.imgur.com/u7qwOTp.png)
