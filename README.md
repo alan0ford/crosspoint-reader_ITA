@@ -29,6 +29,7 @@ Alcuni dei difetti elencati sopra diventano anche i suoi pregi:
 
 Del firmware originale cinese / inglese non ne parlo, partite da qua, leggetevi tutta la pagina e fatevi immediatamente un backup come consigliato:
 https://xteink.dve.al/
+
 Servono browser come Edge o Chrome.
 
 Sceglietevi un firmware, qua un elenco:
@@ -38,6 +39,7 @@ Io ho scelto CrossPoint, ho partecipato alla sua localizzazione in italiano e mi
 
 Con CrossPoint (al momento in cui scrivo siamo alla ver. 1.2) si riesce a gestire completamente il reader via WiFi senza mai sfilare la SD Card. Occorre installare il plugin per **Calibre**:
 https://github.com/crosspoint-reader/calibre-plugins
+
 e straconsiglio l'app **Send to X4**
 https://www.chapiware.com/send-to-x4/ 
 
@@ -49,6 +51,7 @@ https://wallpaperconverter.jakegreen.dev/
 
 Altre risorse:
 https://www.readme.club/resources
+
 https://www.reddit.com/r/xteinkereader/
 
 FAQ:
@@ -58,6 +61,6 @@ https://www.readme.club/start
 
 ![Home](https://i.imgur.com/KrcZvd0.png)
 
-**Menu connessioni**
+**Menu Trasferimento File**
 
 ![menu connessioni](https://i.imgur.com/u7qwOTp.png)
