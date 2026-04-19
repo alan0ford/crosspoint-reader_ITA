@@ -1,11 +1,14 @@
 ﻿## Mini Guida XTEINK X4
 ![View](https://i.imgur.com/XfAH1g2.jpeg)
+
 **Cos'è**
+
 Se sei arrivato fin qua molto probabilmente lo sai già, in sostanza si tratta di un ebook reader di fabbricazione cinese di dimensioni molto piccole (diagonale schermo di circa 4") con caratteristiche modeste (e senza un ebook store affiliato), dal prezzo contenuto (*io l'ho pagato poco meno di 50 € dalla famosa piattaforma cinese*).
 
 Quindi apparentemente poco interessante o interessante a pochi, se non per il fatto appunto delle ridotte dimensioni (*che lo rendono portabilissimo e che consente di averlo sempre con sé per leggere più spesso*) e della community di smanettoni che si è appassionata e sviluppa software alternativi.
 
 **Difetti**
+
 Se lo hai già acquistato - *magari ti sei fatto incantare da qualche video recensione* -  li avrai scoperti da te, per quelli invece che sono in dubbio, spero possa essere utile elencare quelli che a mio parere ho riscontrato:
  - bassa qualità e risoluzione dello schermo (rispetto agli attuali prodotti sul mercato), scordatevi di leggere dei fumetti, assenza touchscreen;
  - fragilità dello schermo, dei pulsanti e scarso controllo qualità produzione (frequente imbattersi su reddit in prodotti difettati);
@@ -15,6 +18,7 @@ Se lo hai già acquistato - *magari ti sei fatto incantare da qualche video rece
  - utilizzo che richiede buone conoscenze informatiche (*in sostanza è un oggetto per nerd o gente sveglia*).
  
 **Pregi**
+
 Alcuni dei difetti elencati sopra diventano anche i suoi pregi:
  - serve per leggere e basta;
  - dimensioni e peso perfetti per portarlo sempre con sè, autonomia elevata;
@@ -22,6 +26,7 @@ Alcuni dei difetti elencati sopra diventano anche i suoi pregi:
  - community vivace e ricca di risorse.
 
 **Consigli d'uso e risorse**
+
 Del firmware originale cinese / inglese non ne parlo, partite da qua, leggetevi tutta la pagina e fatevi immediatamente un backup come consigliato:
 https://xteink.dve.al/
 Servono browser come Edge o Chrome.
@@ -29,7 +34,7 @@ Servono browser come Edge o Chrome.
 Sceglietevi un firmware, qua un elenco:
 https://www.readme.club/firmware
 
-Io ho scelto CrossPoint, ho partecipato alla sua localizzazione in italiano e mi sono fatto un fork sostituendo il font open dyslexic con uno alternativo a cui sono abituato.
+Io ho scelto CrossPoint, ho partecipato alla sua localizzazione in italiano e mi sono fatto un fork personale sostituendo il font open dyslexic con uno alternativo a cui sono abituato.
 
 Con CrossPoint (al momento in cui scrivo siamo alla ver. 1.2) si riesce a gestire completamente il reader via WiFi senza mai sfilare la SD Card. Occorre installare il plugin per **Calibre**:
 https://github.com/crosspoint-reader/calibre-plugins
